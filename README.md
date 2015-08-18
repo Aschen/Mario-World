@@ -12,3 +12,5 @@ Epitech project : We have 48h to learn how the SDL library work by create a simp
 * A parachute when you are falling, press space !
 * You have to recover the key to open the door
 * Press escape to go back to the menu (Yes the menu is a map too ;))
+
+![alt text](https://github.com/Aschen/Mario-World/raw/master/screenshot.png "screenshot")
